@@ -92,9 +92,9 @@ def clear_faiss_db():
         print(f"Error while deleting FAISS database: {e}")
 
 
-user_query = input("Your question: ")
-response = answer_query(user_query)
-print("Answer:", response)
+# user_query = input("Your question: ")
+# response = answer_query(user_query)
+# print("Answer:", response)
 # def start_conversation():
 #     # print("Hello! Ask me anything, and I will try to answer. Type 'exit' to end the conversation.")
     
